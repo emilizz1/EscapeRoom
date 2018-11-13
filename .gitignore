@@ -1,0 +1,8 @@
+# Unreal Gemerated Files #
+/Build
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+Content/StarterContent/
+*.db

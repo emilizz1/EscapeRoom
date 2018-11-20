@@ -4,8 +4,7 @@
 /DerivedDataCache
 /Intermediate
 /Saved
-Content/StarterContent/
 *.db
-.vs/EscapeRoom/v15/ipch/AutoPCH/b97d6a8705ea2bb4/POSITIONREPORT.ipch
-.vs/EscapeRoom/v15/ipch/AutoPCH/9cbbdb8e5c897631/PAPERFLIPBOOKACTORFACTORY.ipch
 *.ipch
+Content/StarterContent/Textures/
+Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset

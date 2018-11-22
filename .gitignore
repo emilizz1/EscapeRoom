@@ -8,3 +8,5 @@
 *.ipch
 Content/StarterContent/Textures/
 Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+*.VC.opendb
+*.sln
